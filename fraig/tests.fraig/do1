@@ -1,0 +1,9 @@
+cirr tests.fraig/sim13.aag
+
+cirsim -f tests.fraig/pattern.13
+
+cirp -fec
+
+usage
+
+q -f
